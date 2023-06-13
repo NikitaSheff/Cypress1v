@@ -1,0 +1,6 @@
+{
+  "baseURL": "https://www.automationteststore.com/",
+  "env": {
+    "name": "AutoStore"
+  }
+}
